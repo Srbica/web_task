@@ -1,0 +1,17 @@
+.map {
+	height: 500px;
+	width: 100%;
+}
+
+.link {
+    float: right;
+}
+
+.table {
+	text-align: center;
+}
+
+.logo {
+	width: 400px;
+	height: 400px;
+}
